@@ -38,3 +38,8 @@ C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\obj\Debug\net5.0\ref\SampleDo
 C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\obj\Debug\net5.0\SampleDotNetCoreMvcApp.pdb
 C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\obj\Debug\net5.0\SampleDotNetCoreMvcApp.genruntimeconfig.cache
 C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\obj\Debug\net5.0\SampleDotNetCoreMvcApp.csproj.CopyComplete
+C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\bin\Debug\net5.0\PublishOutput\web.config
+C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\bin\Debug\net5.0\PublishOutput\appsettings.Development.json
+C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\bin\Debug\net5.0\PublishOutput\appsettings.json
+C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\bin\Debug\net5.0\PublishOutput\SampleDotNetCoreMvcApp.deps.json
+C:\Pankaj-Task\Jenkins_Task\SampleDotNetCoreMvcApp\bin\Debug\net5.0\PublishOutput\SampleDotNetCoreMvcApp.runtimeconfig.json
