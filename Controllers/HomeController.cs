@@ -38,6 +38,11 @@ public IActionResult SampleData2233()
             var data = new List<string> { "Item 1", "Item 2", "Item 3","Item 5", "Item 6", "Item 7" };
             return Json(data);
         }
+public IActionResult SampleData223322()
+        {
+            var data = new List<string> { "Item 1", "Item 2", "Item 3","Item 5", "Item 6", "Item 7" };
+            return Json(data);
+        }
 
 
     }  
