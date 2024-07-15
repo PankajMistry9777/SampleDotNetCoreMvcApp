@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPuzqB9/8y2DRGdGpjyc4yvk8OsKtj+YXJ8WJeCKNegHN4ICiW+WzPEpQLdsbO7zq8bB+n63iFfxuPWLkythtg==",
+  "dgSpecHash": "g7dnO2+9Q40=",
   "success": true,
   "projectFilePath": "C:\\Pankaj-Task\\Jenkins_Task\\SampleDotNetCoreMvcApp\\SampleDotNetCoreMvcApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MistryPankajkumarPan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
