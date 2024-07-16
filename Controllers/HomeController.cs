@@ -11,7 +11,7 @@ namespace SampleDotNetCoreMvcApp.Controllers
 {
 	 public class HomeController : Controller
     {
-        public IActionResult Index()11
+        public IActionResult Index()
         {
             ViewData["Message"] = "Welcome to your .NET Core App!";
             return View();
